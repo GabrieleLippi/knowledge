@@ -12,4 +12,4 @@ There are two levels at which the driving metaphor applies to XP:
 
  XP lets you adapt by making frequent, small corrections; you don't wait a long time to find out if you were going the wrong way.
 
- ** The customers don't usually know exactly what the software should do. That's why software development is like driving, not like getting the car pointed straight down the road**
+**The customers don't usually know exactly what the software should do. That's why software development is like driving, not like getting the car pointed straight down the road**
