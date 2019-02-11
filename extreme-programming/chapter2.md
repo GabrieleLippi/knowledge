@@ -4,7 +4,7 @@
 ## XP Paradimg:
 > **stay aware**, **adapt**, **change**
 
-Everything in software changes. The requirements change. The design changes. The business changes. The technology changes. The team changes. The team members change. The problem isn't change, because change is going to happen; **the problem, rather, is our inability to cope with change**.
+Everything in software changes. The requirements change. The design changes. The business changes. The technology changes. The team changes. The team members change. **The problem isn't change**, because change is going to happen; the problem, **rather, is our inability to cope with change**.
 
 There are two levels at which the driving metaphor applies to XP:
  * customers drive the content of the system.
