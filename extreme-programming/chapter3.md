@@ -6,9 +6,9 @@ Specifying practices is useful because they are clear and objective, furthermore
 **You can start writing tests before changing code, and gain benefit from doing so, long before you understand software development in a deeper way**.
 
 * Values are the roots of the things we like and don't like in a situation.
-**Practices are evidence of values**.
-Bridging the gap between values and practices are principles.
 
 * Principles are domain-specific guidelines for life.
+
+**Practices are evidence of values** and principles are the bridge between the two.
 
 Reading a book won't make anyone an extreme programmer. That only comes with **programming** in the extreme style, **participating** in the community of people who share these values and at least some of your practices, and then **sharing** what you know with others.
