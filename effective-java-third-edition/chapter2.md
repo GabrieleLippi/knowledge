@@ -21,8 +21,8 @@ Cons:
 ## Item 2: Consider a builder when faced with many constructor parameters
 static factories and constructor share a limitation: they do not scale well
 with large numbers of parameters
-Traditionally, programmers tackle this issue with the *telescoping constructor
-* pattern:
+Traditionally, programmers tackle this issue with the **telescoping constructor
+** pattern:
 ``` java
 // Telescoping constructor pattern - does not scale well!
  public class NutritionFacts {
@@ -64,7 +64,7 @@ what means all the values, and if the client accidentally reverses the order of
 the parameters, the compiler won't complain, but the program will misbehave at
 runtime.
 
-A second alternative could be the *JavaBeans* pattern, in which you call a
+A second alternative could be the **JavaBeans** pattern, in which you call a
 parameterless constructor to create the object and then call the setter methods
 to set each required parameter and each optional parameter of interest:
 ```java
@@ -92,7 +92,7 @@ The cons of this pattern are that a JavaBean may be in an inconsistent state
 partway through its construction, and that it forces you to program in a way
 that precludes immutability.
 
-A third alternative is called the *Builder* pattern:
+A third alternative is called the **Builder** pattern:
 ```java
 public class NutritionFacts {
   private final int servingSize;
@@ -150,3 +150,19 @@ public class NutritionFacts {
    }
  }
 ```
+Builder pattern is a good choice when we have multiples parameters
+
+
+## Item 3: Enforce the singleton property with a private constructor or an enum type
+Making a class a singleton can make it difficult to test its clients because it’s impossible to substitute a mock implementation for a singleton unless it implements an interface that serves as its type.
+Three differents approaches:
+  * public final field
+  * public static factory method
+  * single-element enum
+
+## Item 4: Enforce noninstantiability with a private constructor
+Sometimes you want to create a class that is not noninstantiable, just for grouping methods for utilities etc.
+In that cases, *a class can be noninstantiable by including a private constructor*
+
+## Item 5: Prefer dependency injection to hardwiring resources
+Do not use a singleton or static utility class to implement a class that depends on one or more underlying resources whose behavior affects that of the class, and do not have the class create these resources directly. Instead, pass the resources, or factories to create them, into the constructor (or static factory or builder). This practice, known as dependency injection, will greatly enhance the flexibility, reusability, and testability of a class.
