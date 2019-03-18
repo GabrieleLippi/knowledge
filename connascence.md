@@ -1,11 +1,6 @@
 # Connascence
 
 ## NAME:
-|   |   |   |
-|---|---|---|
-|   |   |   |
-|   |   |   |
-|   |   |   |
 * is unavoidable, since we refer to entities using labels
 * is the weakest connascence
 
