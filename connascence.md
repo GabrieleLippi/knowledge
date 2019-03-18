@@ -1,4 +1,5 @@
 # Connascence
+>a software quality metric and taxonomy addressing different types of coupling.
 
 ## NAME:
 * is unavoidable, since we refer to entities using labels
