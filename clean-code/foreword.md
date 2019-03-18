@@ -1,5 +1,6 @@
 # Foreward
 >You should name a variable using the same care with which you name a first-born child
+
 >Refactor mercilessy
 
 This is a book about **humble concerns** whose value is nonetheless far from small.
@@ -18,7 +19,8 @@ Good software practice requires: focus, presence of mind and thinking. Following
   4. *Seiketsu*, or standardization. The group agrees about how to keep the workplace clean.
   5. *Shutsuke*, or discipline(*self*-discipline). This means having the discipline to follow the practices and to frequently reflect on one's work and be willing to change
 
-  These are the roots of **responsible professionalims**.
+These are the roots of **responsible professionalims**.
 
-  Quality is the result of a million selfless acts of care - not just of any great method descends from heavens. That these acts are simple doesn't mean that they are simplistic, and it hardly means that they are easy. They are nonetheless the fabric of greatness and, more so, of beauty, in any human endeavor.
-  We should keep in mind that design is a process, not a static endpoint.
+## Quality
+Quality is the result of a million selfless acts of care - not just of any great method descends from heavens. That these acts are simple doesn't mean that they are simplistic, and it hardly means that they are easy. They are nonetheless the fabric of greatness and, more so, of beauty, in any human endeavor.
+We should keep in mind that design is a process, not a static endpoint.
