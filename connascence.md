@@ -1,16 +1,15 @@
 # Connascence
 
 ## NAME:
-
-    is unavoidable, since we refer to entities using labels
-    is the weakest connascence
+* is unavoidable, since we refer to entities using labels
+* is the weakest connascence
 
 if we change the name of an entity when we declare it,
 we must also change all code that refers to that entity
 
 ## TYPE:
-    for statically tiped language, is not a big issue
-    for dynamic languages, like Python, JavaScript etc, could raise some issues
+* for statically tiped language, is not a big issue
+* for dynamic languages, like Python, JavaScript etc, could raise some issues
 multiple components must agree on the type of an entity
 
 ## MEANING:
