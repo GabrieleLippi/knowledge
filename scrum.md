@@ -15,18 +15,12 @@ The **Scrum framework** consists of **Scrum Teams** and their associated **roles
 Scrum is founded on empiricism.
 Three pillars uphold every implementation of empirical process control:
   * **transparency**
+        Significant aspects of the process must be visible to those responsible for the outcome.
+        Transparency requires those aspects be defined by a common standard so observers share a **common understanding** of what is being seen.
   * **inspection**
+        Scrum users must frequently inspect Scrum artifacts and progress toward a Sprint Goal to detect undesirable variances.
   * **adaptation**
-
-### Transparency
-Significant aspects of the process must be visible to those responsible for the outcome.
-Transparency requires those aspects be defined by a common standard so observers share a **common understanding** of what is being seen.
-
-### Inspection
-Scrum users must frequently inspect Scrum artifacts and progress toward a Sprint Goal to detect undesirable variances.
-
-### Adaptation
-If an inspector determines that one or more aspects of a process deviate outside acceptable limits, and that the resulting product will be unacceptable, the process or the material being processed must be adjusted.
+        If an inspector determines that one or more aspects of a process deviate outside acceptable limits, and that the resulting product will be unacceptable, the process or the material being processed must be adjusted.
 
 Scrum prescribes four formal events for inspection and adaptation:
 
@@ -53,6 +47,7 @@ The Scrum Team consists of:
   * **Product Owner**
   * **Development Team**
   * **Scrum Master**
+
 Scrum Teams are **self-organizing** and **cross-functional**.
 **Self-organizing teams choose how best to accomplish their work**, rather than being directed by others outside the team.
 **Cross-functional teams have all competencies needed to accomplish the work** without depending on others not part of the team.
