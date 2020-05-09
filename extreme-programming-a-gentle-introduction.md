@@ -1,10 +1,11 @@
 # Extreme Programming: A gentle introduction
 
-The first Extreme Programming project was started March 6, 1996.
+The first Extreme Programming project was started **March 6, 1996**.
 
-Extreme Programming is successful because it stresses customer satisfaction. Instead of delivering everything you could possibly want on some date far in the future this process delivers the software you need as you need it.
+Extreme Programming is successful because it **stresses customer satisfaction**. 
+Instead of delivering everything you could possibly want on some date far in the future this process delivers the software you need as you need it.
 
-Extreme Programming emphasizes teamwork.
+Extreme Programming emphasizes **teamwork**.
 
 Extreme Programming improves a software project in five essential ways:
   * communication
@@ -23,7 +24,6 @@ We will take small simple steps to our goal and mitigate failures as they happen
 Everyone is part of the team and **we communicate face to face daily**.
 We will **work together** on everything from requirements to code.
 
-
 ### Feedback:
 We will take **every iteration** commitment seriously by delivering **working software**.
 We **demonstrate our software early** and often then **listen carefully** and make any changes needed.
@@ -35,11 +35,42 @@ Everyone gives and feels the respect they deserve as a valued team member.
 Developers respect the expertise of the customers and vice versa.
 Management respects our right to accept responsibility and receive authority over our own work.
 
-## Courage:
+### Courage:
 We will tell the truth about progress and estimates.
 We don't document excuses for failure because we plan to succeed.
 **We don't fear anything because no one ever works alone**.
 We will adapt to changes when ever they happen.
+
+## XP Rules:
+
+### Planning
+
+### Managing
+  * give the team a dedicated **open work space**
+  * set up a **sustainable pace**
+  * a **stand up meeting** starts each day
+  * the project velocity is measured
+  * **move people around**
+  * **fix XP** when it breaks
+
+### Designing
+
+### Coding
+  * the customer is **always available**
+  * code must be written to agreed **standars**
+  * code the **unit test first**
+  * all production code is **a pair programmed**
+  * only one pair integrates code at a time
+  * integrate often
+  * set up a dedicated integration computer
+  * use **collective ownership**
+
+### Testing
+  * all code must have **unit tests**
+  * all code must pass all **unit tests** before a release
+  * when a bug is found tests are created
+  * **Acceptance tests** are run often
+
 
 ## Pair Programming:
 >All code to be sent into production is created by two people working together at a single computer.
